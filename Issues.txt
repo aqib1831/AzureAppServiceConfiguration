@@ -1,0 +1,2 @@
+Yomen install issue 
+exce command npm set strict-ssl false
